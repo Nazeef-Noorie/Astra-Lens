@@ -1,0 +1,2 @@
+# Astra-Lens
+Astra lens aims to be that to novice astronomers, what auto type and auto correct are to typing on mobile devices, a helping hand and verification from a person who is decent at astronomy but not alive. Astra lens will be trained on immense number of astronomical images of celestial bodies which have been classified and will then take inputs as astrophotographs and then attempt to classify which celestial body it is from planet, star, pulsar, nebula, etc.
